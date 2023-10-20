@@ -1,0 +1,51 @@
+body{margin: 10px; padding: 10px; 
+    box-sizing: border-box; line-height: 1.5;
+    background-color: #f5f5f5;}
+
+.cook{max-width: 960px;
+                 margin:10px; padding: 10px;
+                display: grid; 
+                grid-template-columns:30% 30% 30%  ;
+                grid-column-gap: 1em;
+                gap: 10px;
+                justify-content: center;
+                 margin-left: 130px;
+                 margin-top: 40px;
+                  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+ .spoon   {background-color: white;
+            color: black;
+            font-size: 13px;
+            padding: 20px;
+            border: rgb(195,195, 195) 1px solid; 
+            border-left: rgb(195,195, 195) 2px solid;
+            border-bottom: rgb(195,195, 195) 2px solid;
+            border-top: rgb(195,195, 195) 1px solid;
+            text-align: center;
+            }    
+            
+            
+
+            .cook>div:nth-child(1){
+                          background:white ;
+                          color: black;
+                           margin-bottom: ;}
+
+            .cook>div:nth-child(5){
+                            background:white;
+                            color: black;
+                              }              
+
+
+
+
+            .reg{color: plum;}
+            h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; text-align: center;}
+        
+            .load{text-align: center;}
+
+
+            .pic2{height: 80px;}
+            .pic{height: 80px;}
+
+
